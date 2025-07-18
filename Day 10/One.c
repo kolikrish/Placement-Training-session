@@ -1,3 +1,5 @@
+// Caluculate the sum of two number using function void type without arguments.
+
 #include<stdio.h>
 void Additon();
 

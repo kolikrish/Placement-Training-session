@@ -1,3 +1,5 @@
+// Calculate the array of all the 3D array elements.
+
 #include <stdio.h>
 void SumArray();
 

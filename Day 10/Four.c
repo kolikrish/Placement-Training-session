@@ -1,3 +1,5 @@
+// Find the greatest number among three numbers using function.
+
 #include<stdio.h>
 void findGreatest();
 

@@ -1,3 +1,5 @@
+// Check even or odd number using void type with arguments.
+
 #include<stdio.h>
 void evenOdd(int n);
 

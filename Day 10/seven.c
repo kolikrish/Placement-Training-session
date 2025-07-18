@@ -1,3 +1,5 @@
+// Find the area of circle using void type with argument function.
+
 #include<stdio.h>
 void AreaCircle(int);
 

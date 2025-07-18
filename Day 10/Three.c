@@ -1,3 +1,5 @@
+// Calculate the reverse of given number using function.
+
 #include <stdio.h>
 void reverseNumber();
 

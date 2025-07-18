@@ -1,3 +1,5 @@
+// Calculate the factorial of given number using function
+
 #include<stdio.h>
 void findFactorial();
 
