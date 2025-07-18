@@ -1,3 +1,5 @@
+// Calculate the sum of diagonal elements of square matrix.
+
 #include <stdio.h>
 
 int main() {

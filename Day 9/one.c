@@ -1,3 +1,5 @@
+// Read values of 2D array and than display it in matrix.
+
 #include<stdio.h>
 int main() {
 

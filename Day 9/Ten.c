@@ -1,3 +1,5 @@
+// Calculate the sum of all the column elements.
+
 #include <stdio.h>
 
 int main() {

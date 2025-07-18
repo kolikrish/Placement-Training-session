@@ -1,3 +1,5 @@
+// Calculate sum of two matrix.
+
 #include<stdio.h>
 int main() {
 

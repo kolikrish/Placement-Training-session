@@ -1,3 +1,5 @@
+// Find out the greatest element in matrix.
+
 #include <stdio.h>
 
 int main() {

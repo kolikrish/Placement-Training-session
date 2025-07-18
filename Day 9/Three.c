@@ -1,3 +1,5 @@
+// Calculate the average of all the 2D array elements.
+
 #include<stdio.h>
 int main() {
 

@@ -1,3 +1,5 @@
+// Calculate the average and sum of given arrays.
+
 #include<stdio.h>
 int main() {
 

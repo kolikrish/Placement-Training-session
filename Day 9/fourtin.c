@@ -1,3 +1,5 @@
+// Search a given element among all the 2D array (Linear search).
+
 #include <stdio.h>
 
 int main() {

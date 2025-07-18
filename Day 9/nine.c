@@ -1,3 +1,5 @@
+// Calculate the Sum of all the rows elements.
+
 #include <stdio.h>
 
 int main() {
